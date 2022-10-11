@@ -8,6 +8,6 @@ The code and data set will be released upon the acceptance of the paper.
 The results of description prediction, static API analysis, dynamic UI analysis, and the final compliance result are listed in the folder:
 
 ```
-/results/[analysis_object].csv
+/results/[browser_type]/[analysis_object]_finall_all.csv
 ```
 
