@@ -4,9 +4,10 @@ This is the repository for the submitssion of USENIX 2023.
 
 The code and data set will be released upon the acceptance of the paper.
 
+### Results
 The results of description prediction, static API analysis, dynamic UI analysis, and the final compliance result are listed in the folder:
 
 ```
-/results
+/results/[analysis_object].csv
 ```
 
